@@ -1,6 +1,3 @@
-```{r, echo=FALSE, out.width='100%'}
-knitr::include_graphics("header_photo.png")
-```
 
 I am a current Student at the University of Toronto completing my Bachelor of Information (BI). I am a driven student leveraging studies in Information Technologies and Systems, Data Science, and Information Policy. I am seeking professional experience within the area's of Public Health Policy and Research, Information Systems, and the future of Digital Healthcare.
 
