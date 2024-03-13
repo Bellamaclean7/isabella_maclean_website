@@ -2,12 +2,10 @@
 title: "Isabella MacLean"
 ---
 
-```{r, echo=FALSE, results='asis'}
-cat('<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;">
     <img src="photo.png" alt="Isabella MacLean" style="width: 50px; margin-right: 10px;"/>
     <h1>Isabella MacLean</h1>
-</div>')
-```
+</div>
 
 I am a current Student at the University of Toronto completing my Bachelor of Information (BI). I am a driven student leveraging studies in Information Technologies and Systems, Data Science, and Information Policy. I am seeking professional experience within the area's of Public Health Policy and Research, Information Systems, and the future of Digital Healthcare.
 
