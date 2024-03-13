@@ -1,11 +1,11 @@
 ---
-title: "isabella_maclean_website"
+title: "Isabella MacLean"
 ---
 
-This is a Quarto website.
+I am a current Student at the University of Toronto completing my Bachelor of Information (BI). I am a driven student leveraging studies in Information Technologies and Systems, Data Science, and Information Policy. I am seeking professional experience within the area's of Public Health Policy and Research, Information Systems, and the future of Digital Healthcare.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I love solving puzzles which has turned into a passion for analyzing information and presenting solutions. I am skilled in identifying and defining problems and extracting essential information to develop results. I have a unique ability to recognize patterns that often go unnoticed by others. My curious personality always keeps me asking questions and seeking answers. I value the power of thinking critically and being aware of societal and personal biases and assumptions. My strengths include my vigorous work ethic as well as my outstanding leadership and communication skills.
 
-```{r}
-1 + 1
-```
+See my resume [here](Resume_CV.pdf).
+
+LinkedIn Profile: https://www.linkedin.com/in/bella-maclean-33b4b417b/
